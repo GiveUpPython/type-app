@@ -10,6 +10,8 @@ function App() {
   return (
     <>
       <></>
+      <></>
+      <></>
       <HashRouter>
         <Switch>
           {routers.map((item: any, key: number) => {
